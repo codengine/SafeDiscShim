@@ -23,7 +23,7 @@ OutputDir=..\src\build\release
 ArchitecturesInstallIn64BitMode=x64compatible
 UninstallDisplayName=SafeDiscShim
 UninstallDisplayIcon={uninstallexe}
-InfoBeforeFile=X:\SafeDiscShim\installer\license.rtf
+InfoBeforeFile=license.rtf
 ChangesEnvironment=yes
 
 [Registry]
